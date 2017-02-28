@@ -162,8 +162,8 @@ def invasaoEspaco():
 
     numeroDeInimigos = 25
 
-    #audio_musica_fundo.play()
-    #audio_musica_fundo.set_volume(0.30)
+    audio_musica_fundo.play()
+    audio_musica_fundo.set_volume(0.30)
 
     pygame.font.init()
     font_padrao = pygame.font.get_default_font()
